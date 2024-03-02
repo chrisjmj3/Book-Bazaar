@@ -1,0 +1,5 @@
+book logo:<i class="fa-duotone fa-book" style="--fa-primary-color: #91738f; --fa-secondary-color: #91738f;"></i>
+home-logo:<i class="fa-solid fa-house" style="color: #788191;"></i>
+cart-logo:<i class="fa-regular fa-cart-shopping" style="color: #788191;"></i>
+user-logo:<i class="fa-regular fa-user" style="color: #788191;"></i>
+magnifying glass:<i class="fa-solid fa-magnifying-glass" style="color: #788191;"></i>
