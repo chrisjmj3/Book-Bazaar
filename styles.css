@@ -32,35 +32,33 @@ form {
 }
 
 #name {
+    align-items: center;
     margin-top: 40px;
+    margin-left: 10px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border-radius: 15px;
+    height: 25px;
 }
 
 #field {
+    align-items: center;
     margin-top: 30px;
+    margin-left: 13px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-}
-
-#Submit {
-    background-color: #512F88;
-    color: #fff;
     border-radius: 15px;
     height: 25px;
-    width: 70px;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-}
-
-#Submit:hover {
-    background-color: #AC9ACA;
 }
 
 #date {
     margin-top: 30px;
+    margin-left: 5px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border-radius: 15px;
+    height: 25px;
 }
 
 #prize {
-    margin-top: 45px;
+    margin-top: 60px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 20px;
 }
