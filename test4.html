@@ -80,13 +80,13 @@
             // Draw the event from the 'fieldInput' input field
             ctx.font = '18px monotype corsiva';
             ctx.fillStyle = '#29e';
-            ctx.fillText(document.getElementById('fieldInput').value, 240, 210);
+            ctx.fillText(document.getElementById('fieldInput').value, 245, 210);
 
             ctx.font = '14px monotype corsiva';
             ctx.fillStyle = '#29e';
             var dateComponents = document.getElementById('date1').value;
             dateComponents = dateComponents.split("-").reverse().join("-");
-            ctx.fillText(dateComponents, 344, 210);
+            ctx.fillText(dateComponents, 365, 210);
 
             var selectedOption = document.querySelector('input[name="options"]:checked');
             if (selectedOption) {
